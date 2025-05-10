@@ -15,11 +15,14 @@ namespace SalesWebMvc.Controllers
 
         public IActionResult Index()
         {
+            //method builder
             return View();
         }
 
         public IActionResult Privacy()
         {
+
+            //method builder
             return View();
         }
 
